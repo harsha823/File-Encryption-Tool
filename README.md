@@ -7,4 +7,3 @@
 ─ input/
 ─ output/
 ─ tests/
-another one
